@@ -14,15 +14,15 @@
   The adoption of this theme—focused on disease detection in coconut trees—aims to leverage modern technologies, such as artificial intelligence and image recognition, to support real-time monitoring and early detection. By empowering farmers with these tools, we hope to not only improve yields and economic stability but also to elevate Indonesia’s standing as a coconut producer. Ultimately, our goal is to position Indonesia as the world’s leading coconut exporter, surpassing other countries and strengthening the global market share of Indonesian coconuts.
 </p>
 
-## Team : Bangkit Capstone Team C23-PS381
+## Team : Bangkit Capstone Team C242-PS103
 
 | Name                         | Bangkit ID   | Learning Path      | Contacts                                                                                                                                                                      |
 | ---------------------------- | ------------ | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Adrian Jeremia Kurniawan     | A011B4KY0130 | Mobile Development | [![Adrian Jeremia Kurniawan](/src/LinkedIn.png)]( https://www.linkedin.com/in/adrian-jeremia-kurniawan/) [![adrianjremia](/src/Github.png)](https://github.com/adrianjremia)                        |
 | Muhammad Wildan Kami         | A011B4KY3113 | Mobile Development | [![Muhammad Wildan Kamil](/src/LinkedIn.png)](https://www.linkedin.com/in/muhammad-wildan-kamil) [![muhammad22015](/src/Github.png)](https://github.com/muhammad22015)         |
 | Muhamad Rumi Rifai           | C011B4KY2660 | Cloud Computing    | [![Muhamad Rumi Rifai](/src/LinkedIn.png)](https://www.linkedin.com/in/rumirifai/) [![rumirifai](/src/Github.png)](https://github.com/rumirifai)                              |
-| Ridho Delfianov              | C011B4KY3822 | Cloud Computing    | [![Ridho Delfianov](/src/LinkedIn.png)]() [![](/src/Github.png)]() |
-| Tegar Posma Diaz Simanjuntak | M011B4KY4407 | Machine Learning   | [![Tegar Posma Diaz Simanjuntak](/src/LinkedIn.png)]() [![](/src/Github.png)]()                              |
+| Ridho Delfianov              | C011B4KY3822 | Cloud Computing    | [![Ridho Delfianov](/src/LinkedIn.png)](www.linkedin.com/in/ridho-delfianov-601878311/) [![im-Delfianov](/src/Github.png)](https://github.com/im-Delfianov) |
+| Tegar Posma Diaz Simanjuntak | M011B4KY4407 | Machine Learning   | [![Tegar Posma Diaz Simanjuntak](/src/LinkedIn.png)](https://www.linkedin.com/in/tegar-simanjuntak-973627288/) [![TegarSimanjuntak](/src/Github.png)](https://github.com/TegarSimanjuntak)                              |
 | Vernandika Stanley Hansen    | M011B4KY4308 | Machine Learning   | [![Vernandika Stanley Hansen](/src/LinkedIn.png)](https://www.linkedin.com/in/vernandikastanleyhansen/) [![VernandikaSH](/src/Github.png)](https://github.com/VernandikaSH)                              |
 | Alif Aqila Hakim             | M002B4KY0380 | Machine Learning   | [![Alif Aqila Hakim](/src/LinkedIn.png)](https://www.linkedin.com/in/alif-aqila-hakim-87558524a) [![aqilahakim](/src/Github.png)](https://github.com/aqilahakim)                   |
 
